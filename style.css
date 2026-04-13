@@ -1,3 +1,4 @@
+:root {
     /* Background Images */
     --hero-bg-default: url('hero_bg_home_service.png');
     --hero-bg-plumbing: url('plumbing_hero_bg.png');
@@ -5,7 +6,6 @@
     --hero-bg-maintenance: url('maintenance_hero_bg.png');
 
     /* Design Tokens */
-:root {
     --primary: #2563eb;
     --primary-dark: #1d4ed8;
     --primary-light: #dbeafe;
